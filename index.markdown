@@ -8,7 +8,7 @@ title: Home
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <title>{{ "resurfacing the web" | downcase }}></title>
   </head>
   <body>
     <h1>{{ "Hello World!" | downcase }}</h1>
